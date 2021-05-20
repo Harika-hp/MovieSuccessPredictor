@@ -1,1 +1,1 @@
-# MovieSuccessPredictor
+# csc522_project
